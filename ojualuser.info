@@ -1,0 +1,5 @@
+name = Node merger
+description = To include node inside node
+version = 1.0
+package = Klepon
+core = 7.x
