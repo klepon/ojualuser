@@ -1,5 +1,5 @@
-name = Node merger
-description = To include node inside node
+name = Ojual user manager
+description = To manage user page and all it's stuff
 version = 1.0
 package = Klepon
 core = 7.x
